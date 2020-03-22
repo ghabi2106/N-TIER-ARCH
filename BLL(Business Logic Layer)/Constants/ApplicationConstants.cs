@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace BLL_Business_Logic_Layer_.Constants
+namespace BLL_Business_Logic_Layer_
 {
     public class ApplicationConstants
     {
